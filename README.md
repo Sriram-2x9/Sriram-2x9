@@ -33,12 +33,10 @@ I am a Software Developer and Machine Learning enthusiast passionate about build
 
 # 📊 GitHub Stats
 
-<p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=Sriram-2x9&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sriram-2x9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
 </p>
 
-![](https://streak-stats.demolab.com/?user=Sriram-2x9&theme=dark&hide_border=false)
 
 ---
 
